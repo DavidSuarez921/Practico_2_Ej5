@@ -1,0 +1,7 @@
+C:\Users\Esteban\source\repos\Practico_2_Ej5\Practico_2_Ej5\bin\Debug\Practico_2_Ej5.exe.config
+C:\Users\Esteban\source\repos\Practico_2_Ej5\Practico_2_Ej5\bin\Debug\Practico_2_Ej5.exe
+C:\Users\Esteban\source\repos\Practico_2_Ej5\Practico_2_Ej5\bin\Debug\Practico_2_Ej5.pdb
+C:\Users\Esteban\source\repos\Practico_2_Ej5\Practico_2_Ej5\obj\Debug\Practico_2_Ej5.csproj.AssemblyReference.cache
+C:\Users\Esteban\source\repos\Practico_2_Ej5\Practico_2_Ej5\obj\Debug\Practico_2_Ej5.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\source\repos\Practico_2_Ej5\Practico_2_Ej5\obj\Debug\Practico_2_Ej5.exe
+C:\Users\Esteban\source\repos\Practico_2_Ej5\Practico_2_Ej5\obj\Debug\Practico_2_Ej5.pdb
